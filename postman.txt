@@ -1,0 +1,12 @@
+Stat General
+{
+  "id_equipe": 1,
+  "id_competition" : 20,
+  "buts" : 2.5,
+  "tirs_par_match": 10,
+  "possession": 60.5,
+  "passes_reussies": 70.5,
+  "aeriens_gagnes": 40.8,
+  "note_equipe": 8.5
+}
+
